@@ -2,6 +2,6 @@ numpy
 pandas 
 streamlit 
 joblib
-matplotlib.pyplot 
+matplotlib 
 sklearn 
 seaborn 
